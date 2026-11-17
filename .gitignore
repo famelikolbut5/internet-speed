@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+/CODE_REVIEW.md
+/VERIFICATION.md
+/checks/benchmark-result.json
